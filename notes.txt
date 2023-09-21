@@ -1,0 +1,5 @@
+1. Pictures collect with medium size. Would it be better to collect original only and then process after, or do a mixture of medium or original, or medium only?
+
+2. What algorithms shall I stick with? Only deep learning models or mixed with traditional ones?
+
+3. How can I modify my source of primary data? Interview or other options?

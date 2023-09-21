@@ -1,0 +1,5 @@
+Queens: Queens are the reproductive females in a bumblebee colony. They are typically larger than workers and have specialized reproductive organs. Queens are responsible for laying eggs and establishing new colonies.
+
+Workers: Workers are the non-reproductive females in the colony. They perform various tasks such as foraging for food, caring for the brood (eggs, larvae, and pupae), and defending the colony. Workers do not lay eggs.
+
+Drones: Drones are the males in the colony. Their primary purpose is to mate with new queens. Drones do not have stingers and do not participate in colony tasks like foraging or nest maintenance.
