@@ -3,3 +3,7 @@
 2. What algorithms shall I stick with? Only deep learning models or mixed with traditional ones?
 
 3. How can I modify my source of primary data? Interview or other options?
+
+4. Mixing the genders together for classification?
+
+
