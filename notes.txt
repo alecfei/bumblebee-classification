@@ -6,4 +6,4 @@
 
 4. Mixing the genders together for classification?
 
-
+5. The quality for deep learning and traditional machine learning methods?
