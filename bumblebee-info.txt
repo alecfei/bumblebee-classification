@@ -7,3 +7,46 @@
 4. Some photos collected from Steven Falk says possible which means the credibility is under threat. Need to be aware of that. So far its the bombus cryptarum. A specialist might be required to validate the data collected.
 
 5. Cryptarum is one species that can be hard to identify. More research will be needed
+
+bombus barbutellus     36 + 12               48
+
+bombus bohemicus       19 + 13               32
+
+bombus campestris      22 + 13               35
+
+bombus cryptarum       34 + 4  + 17          55
+
+bombus distinguendus   4  + 16 + 17          37
+
+bombus hortorum        54 + 19 + 20          83
+
+bombus hypnorum        29 + 20 + 26          75
+
+bombus jonellus        26 + 12 + 15          53
+
+bombus lapidarius      39 + 29 + 25          93
+
+bombus lucorum         40 + 9  + 22          71
+
+bombus magnus          23 + 9  + 36          68
+
+bombus monticola       7  + 23 + 18          48
+
+bombus muscorum        41 + 30 + 26          97
+                       15 + 19 + 19          53         150
+                       
+bombus pascuorum       56 + 54 + 49          159
+
+bombus pratorum        39 + 28 + 25          92
+
+bombus ruderarius      4  + 5  + 22          31
+
+bombus rupestris       35 + 43               78
+
+bombus sylvarum        6  + 14 + 10          30
+
+bombus sylvestris      36 + 25               61
+
+bombus terrestris      81 + 47 + 67          195
+
+bombus vestalis        30 + 42               72
