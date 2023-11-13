@@ -8,23 +8,23 @@
 
 5. Cryptarum is one species that can be hard to identify. More research will be needed
 
-bombus barbutellus     36 + 12               48
+bombus barbutellus     36 + 12               152                   200
 
-bombus bohemicus       19 + 13               32
+bombus bohemicus       15 + 13               172                   200
 
-bombus campestris      22 + 13               35
+bombus campestris      19 + 13               168                   200
 
-bombus cryptarum       34 + 4  + 17          55
+bombus cryptarum       20 + 4  + 16          160                   200
 
-bombus distinguendus   4  + 16 + 17          37
+bombus distinguendus   4  + 15 + 17          164                   200
 
-bombus hortorum        54 + 19 + 20          83
+bombus hortorum        42 + 16 + 19          123                   200
 
-bombus hypnorum        29 + 20 + 26          75
+bombus hypnorum        24 + 20 + 24          132                   200
 
-bombus jonellus        26 + 12 + 15          53
+bombus jonellus        21 + 11 + 15          153                   200
 
-bombus lapidarius      39 + 29 + 25          93
+bombus lapidarius      35 + 27 + 24          93
 
 bombus lucorum         40 + 9  + 22          71
 
