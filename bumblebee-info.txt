@@ -24,9 +24,9 @@ bombus hypnorum        24 + 20 + 24          132                   200
 
 bombus jonellus        21 + 11 + 15          153                   200
 
-bombus lapidarius      35 + 27 + 24          93
+bombus lapidarius      35 + 27 + 24          114                   200
 
-bombus lucorum         40 + 9  + 22          71
+bombus lucorum         32 + 9  + 22          71
 
 bombus magnus          23 + 9  + 36          68
 
