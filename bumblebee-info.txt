@@ -34,7 +34,7 @@ bombus monticola       7  + 23 + 18          101 + 51              200 image qua
 
 bombus muscorum        41 + 30 + 26          103                   200
                        
-bombus pascuorum       44 + 44 + 44          51 + 17               200 plus agricolae
+bombus pascuorum       44 + 44 + 44          68                    200
 
 bombus pratorum        32 + 24 + 23          121                   200
 
