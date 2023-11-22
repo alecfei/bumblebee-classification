@@ -26,27 +26,26 @@ bombus jonellus        21 + 11 + 15          153                   200
 
 bombus lapidarius      35 + 27 + 24          114                   200
 
-bombus lucorum         32 + 9  + 22          71
+bombus lucorum         32 + 8  + 22          138                   200
 
-bombus magnus          23 + 9  + 36          68
+bombus magnus          23 + 9  + 36          13 + 119              200 hard to identify with lucorum and cryptarum. Vestails?)
 
-bombus monticola       7  + 23 + 18          48
+bombus monticola       7  + 23 + 18          101 + 51              200 image quality?
 
-bombus muscorum        41 + 30 + 26          97
-                       15 + 19 + 19          53         150
+bombus muscorum        41 + 30 + 26          103                   200
                        
-bombus pascuorum       56 + 54 + 49          159
+bombus pascuorum       44 + 44 + 44          51 + 17               200 plus agricolae
 
-bombus pratorum        39 + 28 + 25          92
+bombus pratorum        32 + 24 + 23          121                   200
 
-bombus ruderarius      4  + 5  + 22          31
+bombus ruderarius      4  + 5  + 22          169                   200
 
-bombus rupestris       35 + 43               78
+bombus rupestris       31 + 36               113 + 20              200
 
-bombus sylvarum        6  + 14 + 10          30
+bombus sylvarum        6  + 14 + 10          170                   200
 
-bombus sylvestris      36 + 25               61
+bombus sylvestris      36 + 25               139                   200
 
-bombus terrestris      81 + 47 + 67          195
+bombus terrestris      68 + 42 + 60          30                    200
 
-bombus vestalis        30 + 42               72
+bombus vestalis        30 + 40               130                   200
