@@ -23,3 +23,9 @@ Following that, few data augmentation methods were applied to the processed trai
 The performance of the models were presented visually based on their accuracy score, classification report (i.e. precision, recall and f1-score), confusion matrix.
 
 Finally, the models were evaluated based on test dataset that is "raw (without annotation)" using Local Interpretable Model-agnostic Explanations (LIME) to show the trust level of the models generated.
+
+
+
+### Reference
+
+- <p>https://www.flickr.com/photos/63075200@N07/collections/72157631518510934/</P>
