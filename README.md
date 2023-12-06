@@ -28,4 +28,12 @@ Finally, the models were evaluated based on test dataset that is "raw (without a
 
 ### Reference
 
-- <p>https://www.flickr.com/photos/63075200@N07/collections/72157631518510934/</P>
+- <p>https://www.flickr.com/photos/63075200@N07/collections/72157631518510934/</p>
+- <p>https://www.flickr.com/</p>
+- <p>https://www.inaturalist.org/observations</p>
+- <p>https://irecord.org.uk/</p>
+- <p>https://github.com/opencv/cvat</p>
+- <p>https://keras.io/</p>
+- <p>https://pytorch.org/</p>
+- <p>https://github.com/marcotcr/lime</p>
+- <p></p>
