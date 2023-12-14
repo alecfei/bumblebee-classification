@@ -6,7 +6,7 @@ In this project, we trained, tested and evaluated ten pre-trained CNN models to 
 - **ResNet101**
 - **VGG19**
 - **MobileNetV3_Large**
-- **EfficientNetV2_Large**
+- **EfficientNetV2_Medium**
 
 - **SuqeezeNet1_1**
 - **DenseNet121**
@@ -36,4 +36,3 @@ Finally, the models were evaluated based on test dataset that is "raw (without a
 - <p>https://keras.io/</p>
 - <p>https://pytorch.org/</p>
 - <p>https://github.com/marcotcr/lime</p>
-- <p></p>
